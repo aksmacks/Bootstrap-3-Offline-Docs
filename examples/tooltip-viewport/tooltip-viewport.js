@@ -15,4 +15,4 @@ $(document).ready(function () {
     placement: 'bottom',
     viewport: {selector: '.container-viewport', padding: 2}
   })
-})
+}) ? seize... sleeqr. 
